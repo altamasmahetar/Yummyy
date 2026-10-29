@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.Pr2" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+
+    <style name="Theme.Pr2" parent="Base.Theme.Pr2" />
+
+</resources>
